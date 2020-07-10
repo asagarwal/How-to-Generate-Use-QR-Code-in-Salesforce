@@ -7,7 +7,7 @@ Date & Time : {!CampaignMember.Campaign_Date_Time__c}<br>
 <br>
 Please do not delete this email. It contains a QR code which you need to show when entering the premises on the day of the event. There's no need to print this email and bring a hard copy. Simply show the below QR code in your mobile or tablet to the representative at the security gate to validate your entry and confirm your attendance.
 <br>
-<img src="https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://blog5-asagarwal-dev-ed.my.salesforce.com/lightning/r/CampaignMember/{!CampaignMember.Id}/view", alt="Scan QR code to open record in mobile."/>
+<img src="https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://mydomain.my.salesforce.com/lightning/r/CampaignMember/{!CampaignMember.Id}/view", alt="Scan QR code to open record in mobile."/>
 <br>
 Looking forward to seeing you at the event.<br>
 <br>
