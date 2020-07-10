@@ -2,7 +2,7 @@ Dear {!CampaignMember.FirstName}, <br>
 <br>
 Your registration for {!CampaignMember.Campaign} is confirmed. Please find below the location and date, time details. <br>
 <br>
-Venue           : {!CampaignMember.Campaign_Venue_Address__c}<br>
+Venue       : {!CampaignMember.Campaign_Venue_Address__c}<br>
 Date & Time : {!CampaignMember.Campaign_Date_Time__c}<br>
 <br>
 Please do not delete this email. It contains a QR code which you need to show when entering the premises on the day of the event. There's no need to print this email and bring a hard copy. Simply show the below QR code in your mobile or tablet to the representative at the security gate to validate your entry and confirm your attendance.
